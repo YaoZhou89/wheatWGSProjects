@@ -6,8 +6,8 @@ java code could be found [here](https://github.com/YaoZhou89/wgs).
 
 C++ code could be found [here](https://github.com/YaoZhou89/WGSc).
 
-## 1. For SNP filtering
-### 1.1 Quality filtering
+## 1. SNP filtering
+### 1.1 Quality filter
 
 ### 1.2 Depth filter
 
