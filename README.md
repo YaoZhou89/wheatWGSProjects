@@ -2,7 +2,7 @@
 
 Scripts used in our project were introducted.
 
-java code could be found here.
+java code could be found [here](https://github.com/YaoZhou89/wgs).
 
 C++ code could be found here.
 
