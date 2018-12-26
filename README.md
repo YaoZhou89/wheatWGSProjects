@@ -4,7 +4,7 @@ Scripts used in our project were introducted.
 
 java code could be found [here](https://github.com/YaoZhou89/wgs).
 
-C++ code could be found here.
+C++ code could be found [here](https://github.com/YaoZhou89/WGSc).
 
 ## 1. For SNP filtering
 ### 1.1 Quality filtering
